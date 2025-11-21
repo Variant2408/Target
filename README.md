@@ -4,3 +4,4 @@
 3. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 4. [Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
 5. [Valid Number](https://leetcode.com/problems/valid-number/description/)
+6. [Add Binary](https://leetcode.com/problems/add-binary/description/)
