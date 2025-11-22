@@ -6,4 +6,9 @@
 5. [Valid Number](https://leetcode.com/problems/valid-number/description/)
 6. [Add Binary](https://leetcode.com/problems/add-binary/description/)
 7. [Text Justification](https://leetcode.com/problems/text-justification/description/)
-8. 
+8. [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/)
+9. [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
+10. [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
+11. [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)
+12. [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+13. 
