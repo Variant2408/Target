@@ -11,4 +11,5 @@
 10. [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
 11. [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)
 12. [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
-13. 
+13. [N-Queens](https://leetcode.com/problems/n-queens/description/)
+14. [N-Queens-II](https://leetcode.com/problems/n-queens-ii/description/)
