@@ -16,3 +16,6 @@
 15. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 16. [Bus Routes](https://leetcode.com/problems/bus-routes/description/)
 17. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
+18. [Scramble String](https://leetcode.com/problems/scramble-string/description/)
+19. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+20. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
