@@ -13,3 +13,6 @@
 12. [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 13. [N-Queens](https://leetcode.com/problems/n-queens/description/)
 14. [N-Queens-II](https://leetcode.com/problems/n-queens-ii/description/)
+15. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+16. [Bus Routes](https://leetcode.com/problems/bus-routes/description/)
+17. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
